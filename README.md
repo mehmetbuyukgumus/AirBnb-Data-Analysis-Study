@@ -1,5 +1,7 @@
 This study was conducted to prepare suggestions for an advertising campaign that AirBnb could do to grow further in the New York market. The data was visualized and modeled for this purpose.
 
+Sorce of data = https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/discussion
+
 id --> Represents the customer ID
 
 host id --> Indicates the host ID
